@@ -1,0 +1,2 @@
+org.springframework.boot.env.EnvironmentPostProcessor=\
+    com.iotplatform.framework.apollo.spring.boot.ApolloApplicationContextInitializer
